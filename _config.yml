@@ -1,0 +1,12 @@
+# basic options
+title: awesome website
+author: github user
+email:your-email
+description: a wonderful site
+twitter-username: jekyllrb
+github-username: jekyllrb
+
+
+# Build Settings
+markdown: kramdown
+theme: minima
