@@ -1,4 +1,1 @@
-## Posts 
 # newblog
-
-subscribe Via 
