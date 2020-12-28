@@ -9,5 +9,5 @@ github-username: evanwall
 
 # Build settings
 markdown: kramdown
-theme: minimal
+theme: minima
 
