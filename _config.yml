@@ -1,9 +1,13 @@
-# Site settings
-title: Great New Blog Title
-author:
+# basic options
+title: New-awesome blog 
+author: Smart Guy
 name: Evan Will
 email: your-email@domain.com
 description: "Great site about Jekyll on GH-Pages."
+twitter-username: potus
+github-username: evanwall
 
 # Build settings
-remote_theme: jekyll/minima
+markdown: kramdown
+theme: minima
+
