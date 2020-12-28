@@ -1,12 +1,9 @@
-# basic options
-title: awesome website
-author: github user
-email:your-email
-description: a wonderful site
-twitter-username: jekyllrb
-github-username: jekyllrb
+# Site settings
+title: Great New Blog Title
+author:
+name: Evan Will
+email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
 
-
-# Build Settings
-markdown: kramdown
-theme: minima
+# Build settings
+remote_theme: jekyll/minima
